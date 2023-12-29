@@ -22,12 +22,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://clipart-library.com/2023/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -84,3 +78,8 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://clipart-library.com/2023/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg"  />
+</div>
+
+###
