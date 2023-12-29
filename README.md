@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Ritesh Kumar Gupta from Sikkim<br><br>- 🔭 I’m working as National Informatics Centre (MeitY – Government of Sikkim, India) as a SDE Intern<br>- 📚 I'm currently learning Spring Boot<br>- ⚡ In my free time I like to Travel and explore</p>
+<p align="left">I'm Ritesh Kumar Gupta from Sikkim<br><br>- 🔭 I’m working as National Informatics Centre (MeitY – Government of Sikkim, India) as a SDE Intern<br>- 🎓 Currently pursuing MCA at VIT Vellore! (2022-24)🏫🖥️<br>- 📚 I'm currently learning Spring Boot<br>- ⚡ In my free time I like to Travel and Explore</p>
 
 ###
 
@@ -81,9 +81,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Social Media</h3>
 
 ###
