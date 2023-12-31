@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left" href="https://ritesh-s-protfolio.vercel.app/">👩‍💻  About Me</h3>
+<h3 align="left"> <a href="https://ritesh-s-protfolio.vercel.app/" target="_blank"> 👩‍💻  About Me </a></h3>
 
 ###
 
