@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ritesh Kumar Gupta from Sikkim<br><br>- 🔭 I’m working as National Informatics Centre (MeitY – Government of Sikkim, India) as a SDE Intern<br>- 🎓 Currently pursuing MCA at VIT Vellore! (2022-24)🏫🖥️<br>- 📚 I'm currently learning Spring Boot<br>- ⚡ In my free time I like to Travel and Explore</p>
+<p align="left">I'm Ritesh Kumar Gupta from Sikkim<br><br>- 👋 I’m a Full Stack Developer with proficency in Spring Boot and Angular Developer<br>- 🔭 I have 8 months of indurstiy experience from National Informatics Centre (MeitY – Government of Sikkim, India)<br>- 🎓 I have completed my Master's degree from VIT Vellore! (2022-24)🏫🖥️<br>- 📚 I'm currently learning Microservices<br>- ⚡ In my free time I like to Travel and Explore</p>
 
 ###
 
